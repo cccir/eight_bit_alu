@@ -2,6 +2,7 @@
 
 # Tiny Tapeout Wokwi Project Template
 
+A simple 8-bit ALU created using Wokwi
 - [Read the documentation for project](docs/info.md)
 
 ## What is Tiny Tapeout?
