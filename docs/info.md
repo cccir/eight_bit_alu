@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The project currently works by including a 8-bit shift register connected to the bus
 
 ## How to test
 
-Explain how to use your project
+Input your two numbers MSB first (using the SI pin), pulsing the clock after inputting each individual bit.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+A sequence of 8 LEDs is hooked up to the outputs to display the final number in binary.
